@@ -7,6 +7,6 @@ print a
 print pow(a,3)
 print "yes"
 print "really"
-
+print "fix bug 100"
 
 print "linux"
