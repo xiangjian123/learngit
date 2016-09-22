@@ -6,3 +6,4 @@ a = 100
 print a
 print pow(a,3)
 print "yes"
+print "really"
